@@ -1,4 +1,4 @@
-# OpenGraph: Towards Open Foundation Models for Graph
+# OpenGraph: Towards Open Graph Foundation Models
 
 This project presents OpenGraph, a foundation graph model with the capabilities of <b><i>generalizing to unseen graph data</i></b> that significantly differs from the trianing instances.
 
