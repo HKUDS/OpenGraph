@@ -2,14 +2,14 @@
 
 This project presents OpenGraph, a foundation graph model with the capabilities of <b><i>generalizing to unseen graph data</i></b> that significantly differs from the trianing instances.
 
-<img src='intro.png' width=60% />
+<img src='imgs/intro.png' width=60% />
 
 To achieve this goal, OpenGraph addresses several key technical challenges:
 - We propose a unified graph tokenizer to adapt our graph model to generalize well on unseen graph data, even when the underlying graph properties differ significantly from those encountered during training. 
 - We develop a scalable graph transformer as the foundational encoder, which effectively captures node-wise dependencies within the global topological context. 
 - We introduce a data augmentation mechanism enhanced by a large language model (LLM) to alleviate the limitations of data scarcity in real-world scenarios.
 
-<img src='framework.png' />
+<img src='imgs/framework.png' />
 
 Extensive experiments validate the effectiveness of our framework. By adapting OpenGraph to new graph characteristics and comprehending the nuances of diverse graphs, our approach achieves remarkable zero-shot graph learning performance across various settings and domains.
 
@@ -32,7 +32,7 @@ python main.py --load pretrn_gen1 --tstdata cora # test on Cora
 python main.py --load pretrn_gen1 --tstdata citeseer # test on Citeseer
 python main.py --load pretrn_gen1 --tstdata pubmed # test on Pubmed
 ```
-<img src='performance.png' />
+<img src='imgs/performance.png' />
 
 #### To re-pretrain OpenGraph by yourself, run the following command lines:
 ```
