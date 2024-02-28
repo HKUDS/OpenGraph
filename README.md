@@ -14,7 +14,7 @@ To achieve this goal, OpenGraph addresses several key technical challenges:
 Extensive experiments validate the effectiveness of our framework. By adapting OpenGraph to new graph characteristics and comprehending the nuances of diverse graphs, our approach achieves remarkable zero-shot graph learning performance across various settings and domains.
 
 ## Environment Setup
-You need to unzip some of the data files in `datasets/`. Our experiments were conducted with the following package versions:
+You need to unzip some of the data files in `datasets/`. Download the pre-trained models using the link in `Models/readme`. Our experiments were conducted with the following package versions:
 * python==3.10.13
 * torch==1.13.0
 * numpy==1.23.4
