@@ -1,0 +1,238 @@
+products, Electronics, Headphones
+products, Electronics, Speakers
+products, Electronics, Cameras
+products, Electronics, Smartphones
+products, Electronics, Smartwatches
+products, Electronics, Tablets
+products, Electronics, Laptops
+products, Electronics, Desktop Computers
+products, Electronics, Home Security Systems
+products, Electronics, Drones
+products, Electronics, Gaming Consoles
+products, Electronics, Virtual Reality Headsets
+products, Electronics, GPS Devices
+products, Electronics, E-book Readers
+products, Clothing, Women's clothing
+products, Clothing, Men's clothing
+products, Clothing, Kid's clothing
+products, Clothing, Shoes
+products, Clothing, Accessories
+products, Books, Fiction
+products, Books, Non-fiction
+products, Books, Mystery
+products, Books, Science Fiction
+products, Books, Romance
+products, Books, Fantasy
+products, Books, Thriller
+products, Books, Biography
+products, Books, History
+products, Books, Children's Books
+products, Books, Self-help
+products, Books, Cookbook
+products, Books, Art
+products, Books, Travel
+products, Books, Science
+products, Books, Religion
+products, Books, Reference
+products, Books, Poetry
+products, Books, Graphic Novels
+products, Books, Horror
+products, Books, Young Adult
+products, Beauty, Makeup
+products, Beauty, Skincare
+products, Beauty, Haircare
+products, Beauty, Fragrance
+products, Beauty, Bath & Body
+products, Beauty, Tools & Accessories
+products, Beauty, Men's Grooming
+products, Beauty, Beauty Supplements
+products, Home Improvement, Power tools
+products, Home Improvement, Hand tools
+products, Home Improvement, Electrical
+products, Home Improvement, Hardware
+products, Home Improvement, Plumbing
+products, Home Improvement, Building supplies
+products, Home Improvement, Paint
+products, Home Improvement, Heating
+products, Home Improvement, Cooling
+products, Home Improvement, Home security
+products, Home Improvement, Lighting
+products, Home Improvement, Storage
+products, Home Improvement, Cleaning supplies
+products, Home Improvement, Appliances
+products, Toys, Action Figures
+products, Toys, Dolls
+products, Toys, Stuffed Animals
+products, Toys, Building Sets
+products, Toys, Arts & Crafts
+products, Toys, Vehicles
+products, Toys, Puzzles
+products, Toys, Outdoor Play
+products, Toys, Learning & Education
+products, Toys, Games
+products, Toys, Play Food & Grocery
+products, Toys, Electronic Toys
+products, Toys, Musical Instruments
+products, Automotive, Car parts
+products, Automotive, Car accessories
+products, Automotive, Car care products
+products, Automotive, Car electronics
+products, Automotive, Car interior accessories
+products, Automotive, Car exterior accessories
+products, Automotive, Car performance parts
+products, Automotive, Motorcycle parts
+products, Automotive, Motorcycle accessories
+products, Sports and Outdoors, Camping and Hiking
+products, Sports and Outdoors, Exercise and Fitness
+products, Sports and Outdoors, Golf
+products, Sports and Outdoors, Hunting and Fishing
+products, Sports and Outdoors, Outdoor Recreation
+products, Sports and Outdoors, Team Sports
+products, Sports and Outdoors, Water Sports
+products, Sports and Outdoors, Winter Sports
+products, Health and Personal Care, Vitamins
+products, Health and Personal Care, Supplements
+products, Health and Personal Care, Health Care
+products, Health and Personal Care, Baby & Child Care
+products, Health and Personal Care, Sports Nutrition
+products, Health and Personal Care, Household Supplies
+products, Health and Personal Care, Medical Supplies & Equipment
+products, Health and Personal Care, Sexual Wellness
+products, Health and Personal Care, Health & Wellness
+products, Health and Personal Care, Oral Care
+products, Health and Personal Care, Beauty & Grooming
+products, Health and Personal Care, Pet Supplies
+products, Health and Personal Care, Health & Household
+products, Health and Personal Care, Baby & Child Care
+products, Health and Personal Care, Health Supplies
+products, Jewelry, Rings
+products, Jewelry, Necklaces
+products, Jewelry, Bracelets
+products, Jewelry, Earrings
+products, Jewelry, Pendants
+products, Jewelry, Brooches
+products, Jewelry, Charms
+products, Jewelry, Anklets
+products, Jewelry, Jewelry Sets
+products, Jewelry, Body Jewelry
+products, Jewelry, Hair Jewelry
+products, Jewelry, Toe Rings
+products, Jewelry, Cufflinks
+products, Jewelry, Tie Clips
+products, Pet Supplies, Dog food
+products, Pet Supplies, Cat food
+products, Pet Supplies, Dog treats
+products, Pet Supplies, Cat treats
+products, Pet Supplies, Cat litter
+products, Pet Supplies, Dog grooming supplies
+products, Pet Supplies, Cat grooming supplies
+products, Pet Supplies, Dog toys
+products, Pet Supplies, Cat toys
+products, Pet Supplies, Dog collars and leashes
+products, Pet Supplies, Cat collars and leashes
+products, Pet Supplies, Fish supplies
+products, Pet Supplies, Small animal supplies
+products, Pet Supplies, Bird supplies
+products, Baby, Baby girls' clothing
+products, Baby, baby boys' clothing
+products, Baby, baby shoes
+products, Baby, baby accessories
+products, Baby, baby gear
+products, Baby, baby feeding
+products, Baby, baby bathing
+products, Baby, baby nursery
+products, Baby, baby toys
+products, Office Products, Office furniture
+products, Office Products, Office lighting
+products, Office Products, Desk accessories
+products, Office Products, Filing products
+products, Office Products, Office electronics
+products, Office Products, Paper products
+products, Office Products, Writing instruments
+products, Office Products, Presentation supplies
+products, Office Products, Office storage
+products, Office Products, Office maintenance
+products, Office Products, Office organization
+products, Tools and Home Improvement, Power Tools
+products, Tools and Home Improvement, Hand Tools
+products, Tools and Home Improvement, Tool Organizers
+products, Tools and Home Improvement, Tool Sets
+products, Tools and Home Improvement, Measuring and Layout Tools
+products, Tools and Home Improvement, Welding and Soldering
+products, Tools and Home Improvement, Tool Storage
+products, Tools and Home Improvement, Material Handling
+products, Tools and Home Improvement, Jobsite Safety
+products, Tools and Home Improvement, Flashlights
+products, Tools and Home Improvement, Jobsite Radios
+products, Tools and Home Improvement, Welding Equipment
+products, Tools and Home Improvement, Woodworking
+products, Tools and Home Improvement, Workshop Equipment
+products, Tools and Home Improvement, Air Tools
+products, Tools and Home Improvement, Welding and Soldering
+products, Tools and Home Improvement, Power Finishing Tools
+products, Tools and Home Improvement, Fireplace and Stove Accessories
+products, Tools and Home Improvement, Abrasive and Finishing Products
+products, Tools and Home Improvement, Building Supplies
+products, Tools and Home Improvement, Cleaning Supplies
+products, Tools and Home Improvement, Electrical
+products, Tools and Home Improvement, Hardware
+products, Tools and Home Improvement, Kitchen and Bath Fixtures
+products, Tools and Home Improvement, Light Bulbs
+products, Tools and Home Improvement, Lighting and Ceiling Fans
+products, Tools and Home Improvement, Measuring and Layout Tools
+products, Tools and Home Improvement, Paint
+products, Tools and Home Improvement, Wall Treatments and Supplies
+products, Tools and Home Improvement, Power and Hand Tools
+products, Tools and Home Improvement, Rough Plumbing
+products, Tools and Home Improvement, Safety and Security
+products, Tools and Home Improvement, Storage and Home Organization
+products, Tools and Home Improvement, Winterization products
+Outdoor Power Tools
+products, Tools and Home Improvement, Hand Tools
+products, Tools and Home Improvement, Power Tools
+products, Tools and Home Improvement, Painting Supplies and Wall Treatments
+products, Tools and Home Improvement, Electrical
+products, Tools and Home Improvement, Hardware
+products, Tools and Home Improvement, Kitchen and Bath Fixtures
+products, Tools and Home Improvement, Light Bulbs
+products, Tools and Home Improvement, Light Fixtures
+products, Tools and Home Improvement, Measuring and Layout Tools
+products, Tools and Home Improvement, Painting Supplies and Wall Treatments
+products, Tools and Home Improvement, Power and Hand Tools
+products, Tools and Home Improvement, Rough Plumbing
+products, Tools and Home Improvement, Safety and Security
+products, Tools and Home Improvement, Storage and Home Organization
+products, Tools and Home Improvement, Building Supplies
+products, Tools and Home Improvement, Rough Plumbing
+products, Tools and Home Improvement, Building Materials
+products, Tools and Home Improvement, Material Handling
+products, Tools and Home Improvement, Measuring and Layout Tools
+products, Tools and Home Improvement, Jobsite Safety
+products, Tools and Home Improvement, Work Wear and Safety Gear
+products, Tools and Home Improvement, Air Tools & Compressors
+products, Musical Instruments, Amplifiers & Effects
+products, Musical Instruments, Band & Orchestra
+products, Musical Instruments, Drums & Percussion
+products, Musical Instruments, Folk & World Instruments
+products, Musical Instruments, Guitars
+products, Musical Instruments, Keyboards
+products, Musical Instruments, Live Sound & Stage
+products, Musical Instruments, Microphones & Accessories
+products, Musical Instruments, Recording Equipment
+products, Industrial and Scientific, Industrial Electrical
+products, Industrial and Scientific, Occupational Health & Safety Products
+products, Industrial and Scientific, Test
+products, Industrial and Scientific, Measure & Inspect
+products, Industrial and Scientific, Abrasive & Finishing Products
+products, Industrial and Scientific, Janitorial & Sanitation Supplies
+products, Industrial and Scientific, Industrial Hardware
+products, Handmade, Jewelry
+products, Handmade, Clothing
+products, Handmade, Home decor
+products, Handmade, Art
+products, Handmade, Stationery
+products, Handmade, Toys
+products, Handmade, Beauty products
+products, Handmade, Accessories
+products, Handmade, Pet supplies
+products, Handmade, Craft supplies
