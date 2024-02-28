@@ -45,4 +45,12 @@ python main.py --trndata gen2 --tstdata ddi --save pretrn_gen2
 #### To explore pretraining with multiple different pre-training and testing datasets, modify `trn_datasets` and `tst_datasets` in line 241 of `link_prediction/main.py`.
 
 ## Graph Data Generation
-To be completed.
+The graph generation code is in `graph_generation/`. A toy dataset of small size is given. You need to fill in your OpenAI key in `Utils.py` and `itemCollecting_dfsIterator.py` first. To generate your dataset, modify the `descs` and `hyperparams` dicts, and follow the following precedure:
+```
+cd graph_generation/
+python itemCollecting_dfsIterator.py
+python instance_number_estimation_hierarchical.py
+python embedding_generation.py
+python human_item_generation_gibbsSampling_embedEstimation.py
+python make_adjs.py
+```
