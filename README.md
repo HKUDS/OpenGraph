@@ -1,5 +1,7 @@
 # OpenGraph: Towards Open Graph Foundation Models
 
+<i>**The paper is available now: <a href='https://arxiv.org/abs/2403.01121'>arxiv</a>.**</i>
+
 This project presents OpenGraph, a foundation graph model with the capabilities of <b><i>generalizing to unseen graph data</i></b> that significantly differs from the trianing instances.
 
 <img src='imgs/intro.png' width=60% />
