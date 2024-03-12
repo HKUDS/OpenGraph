@@ -116,6 +116,17 @@ We ablated the two sampling techniques in the graph transformer, and show their 
 
 <img src='imgs/sampling.png' width=60% />
 
+## Citation
+If you find this work useful for your research, please consider citing our paper:
+```
+@article{xia2024opengraph,
+  title={OpenGraph: Towards Open Graph Foundation Models},
+  author={Xia, Lianghao and Kao, Ben and Huang, Chao},
+  journal={arXiv preprint arXiv:2403.01121},
+  year={2024}
+}
+```
+
 ## Detailed Code Structures
 ```
 ./
