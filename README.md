@@ -1,7 +1,8 @@
 # OpenGraph: Towards Open Graph Foundation Models
 
-<a href='https://arxiv.org/abs/2403.01121'><img src='https://img.shields.io/badge/arxiv-paper-green' /></a>
-<a href='https://mp.weixin.qq.com/s/nughdr2OQUGevdDzAQphjw'><img src='https://img.shields.io/badge/中文-博客-blue' /></a>
+<a href='https://arxiv.org/abs/2403.01121'><img src='https://img.shields.io/badge/Paper-green' /></a>
+<a href='https://mp.weixin.qq.com/s/nughdr2OQUGevdDzAQphjw'><img src='https://img.shields.io/badge/公众号-blue' /></a>
+<a href='https://blog.csdn.net/weixin_43902773/article/details/136680880'><img src='https://img.shields.io/badge/CSDN-orange' /></a>
 <img src="https://badges.pufler.dev/visits/hkuds/opengraph?style=flat-square&logo=github">
 <img src='https://img.shields.io/github/stars/hkuds/opengraph?color=green&style=social' />
 
