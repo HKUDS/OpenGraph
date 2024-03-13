@@ -2,6 +2,8 @@
 
 <a href='https://arxiv.org/abs/2403.01121'><img src='https://img.shields.io/badge/arxiv-paper-green' /></a>
 <a href='https://mp.weixin.qq.com/s/nughdr2OQUGevdDzAQphjw'><img src='https://img.shields.io/badge/中文-博客-blue' /></a>
+<img src="https://badges.pufler.dev/visits/hkuds/opengraph?style=flat-square&logo=github">
+<img src='https://img.shields.io/github/stars/hkuds/opengraph?color=green&style=social' />
 
 <a href='https://akaxlh.github.io/'>Lianghao Xia</a>, <a href='https://scholar.google.com/citations?user=TwSParMAAAAJ'>Ben Kao</a>, and <a href='https://sites.google.com/view/chaoh/group-join-us'>Chao Huang*</a> (*Correspondence)
 
