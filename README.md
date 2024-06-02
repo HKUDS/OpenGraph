@@ -14,7 +14,7 @@
 </div>
 
 
-This project presents OpenGraph, a foundation graph model <b><i>distilling zero-shot graph generalizability from LLMs</i></b>.
+Presenting OpenGraph, a foundation graph model <b><i>distilling zero-shot graph generalizability from LLMs</i></b>.
 
 <img src='imgs/intro.png' width=60% />
 
