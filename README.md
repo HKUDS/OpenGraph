@@ -1,5 +1,6 @@
 # OpenGraph: Towards Open Graph Foundation Models
 
+<div align='center'>
 <a href='https://arxiv.org/abs/2403.01121'><img src='https://img.shields.io/badge/Paper-green' /></a>
 <a href='https://mp.weixin.qq.com/s/nughdr2OQUGevdDzAQphjw'><img src='https://img.shields.io/badge/公众号-blue' /></a>
 <a href='https://blog.csdn.net/weixin_43902773/article/details/136680880'><img src='https://img.shields.io/badge/CSDN-orange' /></a>
@@ -8,8 +9,12 @@
 
 <a href='https://akaxlh.github.io/'>Lianghao Xia</a>, <a href='https://scholar.google.com/citations?user=TwSParMAAAAJ'>Ben Kao</a>, and <a href='https://sites.google.com/view/chaoh/group-join-us'>Chao Huang*</a> (*Correspondence)
 
+<img src='imgs/article cover.jpg' />
 
-This project presents OpenGraph, a foundation graph model that <b><i>distills zero-shot graph generalization ability from LLMs</i></b>.
+</div>
+
+
+This project presents OpenGraph, a foundation graph model <b><i>distilling zero-shot graph generalizability from LLMs</i></b>.
 
 <img src='imgs/intro.png' width=60% />
 
