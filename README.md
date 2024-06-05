@@ -11,12 +11,13 @@
 
 <img src='imgs/opengraph_article_cover_full.png' />
 
-</div>
 
 
 Presenting OpenGraph, a foundation graph model <b><i>distilling zero-shot graph generalizability from LLMs</i></b>.
 
 <img src='imgs/intro.png' width=60% />
+
+</div>
 
 To achieve this goal, OpenGraph addresses several key technical challenges:
 - We propose a unified graph tokenizer to adapt our graph model to generalize well on unseen graph data, even when the underlying graph properties differ significantly from those encountered during training. 
